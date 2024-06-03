@@ -2,6 +2,7 @@
 [![Actions Status](https://github.com/AnnaMozulko/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AnnaMozulko/qa-engineer-project-84/actions)
 
 В этом проекте необходимо протестировать небольшой интернет-магазин по продаже вещей.
+
 Для разработки интернет-магазина разработчику дали следующее задание:
 
 Нужно разработать интерфейс интернет-магазина с просмотром и фильтрацией товаров, а также добавлением их в корзину.
