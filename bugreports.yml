@@ -152,3 +152,18 @@
      Есть мобильная версия сайта
   actual-result: |
    Нет мобильной версии сайта
+   приложение Screen12
+
+- summary: |
+   Нельзя оформить заказ
+  environment: |
+    Google Chrome   Версия 125.0.6422.113 (Официальная сборка), (64 бит)
+    ОС Windows 10 Pro
+  steps-to-reproduce: |
+     1. Добавить любой товар в корзину
+     2. Нажать "Checkout"
+  expected-result: |
+     Заказ успешно оформлен
+  actual-result: |
+   Заказ не оформлен
+   приложение Screen13
