@@ -2,12 +2,14 @@
 name: Anna Mozulko
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
-description: 
+email: A.A.Beletskaja@gmail.com
+description: Прохожу обучение по курсу "Инженер по тестированию" на образовательной платформе Хекслет.
 
 skills:
   - Функциональное тестирование
+  - Создание тест-кейсов
   - Написание багрепортов
   - Linux
-  - Слепая печать
-  - Английский язык C1
+  - Git
+  - GitHub
+  - DevTools
